@@ -1,4 +1,4 @@
-# Verde Rebelde Super Foods – Web
+# Verde Rebelde Super Foods 2 – Web
 
 Proyecto de diseño web desarrollado bajo la metodología SCRUM utilizando React.
 
